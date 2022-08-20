@@ -1,4 +1,4 @@
-# CORE JAVA LEARNING GUIDE
+# Design patterns , UML , Object-Oriented Design (OOD) and Low-Level Design using Kotlin / Java.
 
 Hello readers!! This is an attempt to share my learnings of Core Java over the years in a fun textbook available on GITBOOK.
 I have used JDK 18 (JDK - Java Development Kit) which is the latest version available at the time of writing this book.
