@@ -1,0 +1,13 @@
+Lesson 1 ---- OO Concepts
+
+1) Classes and Objects
+----------------------
+A class is an abstract data type that contains a set of attributes and methods (or functions).
+
+An object is an instance of a class.
+
+All objects share the same copy of the member functions but maintain a separate copy of the member data.
+
+Consider the analogy of Cars. Cars like Ferrari, BMW and Chevrolet share certain similar features and can be grouped
+together to form objects of the class Cars.
+
