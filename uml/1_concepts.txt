@@ -33,3 +33,12 @@ If certain data or methods are similar in a set of classes, then instead of defi
 we can define the common methods and data in the base class. The derived class can then inherit the common methods
 and attributes from the base class.
 
+3) Abstraction
+--------------------------
+Abstraction focuses on inherent aspects of an entity ignoring its implementation details.
+An abstract class specifies the abstract operation but does not include its implementation. The implementation is provided in the
+derived classes of the abstract class.
+Consider an example of Polygon class that specifies an abstract operation computeArea(). The Polygon class does not
+provide the implementation of the operation, computeArea(). The derived classes of the Polygon class, Rectangle and Square,
+implement the computeArea() operation to compute the area of a rectangle and square,respectively.
+
