@@ -11,3 +11,12 @@
 <h2><img align="center" height="400" widht="400" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/inheritance.png">2.Inheritance</h2>
 
 <h2><img align="center" height="400" widht="400" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/abstraction.svg">3.Abstraction</h2>
+
+Problem solving ----- based on inheritance, polymorphism,abstraction,encapsulation (See the file problem.txt)
+
+[problem.txt](https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/problem.txt "Problem Solving")
+
+<h2><img align="center" height="400" widht="400" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/problem.svg">Problem solving</h2>
+
+
+
