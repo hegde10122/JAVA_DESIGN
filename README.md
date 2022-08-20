@@ -2,4 +2,4 @@
 
 
 
-![Classes and Objects](https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/class_objects.png?raw=true)
+![Classes and Objects](https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/class_objects.png)
