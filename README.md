@@ -4,6 +4,6 @@
 
    To begin with we start with classes and objects.
 
-Click here for the concept --> [learning.txt](https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/1_concepts.txt "Classes and Objects")
-![Classes and Objects](https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/class_objects.png)
+    Click here for the concept --> [learning.txt](https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/1_concepts.txt "Classes and Objects")
 
+<h3><img align="center" height="300" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/class_objects.png">Classes and Objects</h3>
