@@ -6,4 +6,4 @@
 
     Click here for the concept --> [learning.txt](https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/1_concepts.txt "Classes and Objects")
 
-<h3><img align="center" height="300" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/class_objects.png">Classes and Objects</h3>
+<h2><img align="center" height="600" widht="600" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/class_objects.png"></h2>
