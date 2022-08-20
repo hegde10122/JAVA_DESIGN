@@ -7,3 +7,5 @@
 Click here for the concept --> [learning.txt](https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/1_concepts.txt "Classes and Objects")
 ![Classes and Objects](https://raw.githubusercontent.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/class_objects.png)
 
+
+
