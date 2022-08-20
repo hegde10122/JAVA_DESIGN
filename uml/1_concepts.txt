@@ -11,3 +11,5 @@ All objects share the same copy of the member functions but maintain a separate 
 Consider the analogy of Cars. Cars like Ferrari, BMW and Chevrolet share certain similar features and can be grouped
 together to form objects of the class Cars.
 
+Refer to the file class_objects.png  in this folder to understand the above concept.
+
