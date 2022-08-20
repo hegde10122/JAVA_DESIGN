@@ -14,9 +14,9 @@
 
 Problem solving ----- based on inheritance, polymorphism,abstraction,encapsulation (See the file problem.txt)
 
-[problem.txt](https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/problem.txt "Problem Solving")
+[Problem solving - Question](https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/problem.txt "Problem Solving")
 
 <h2><img align="center" height="400" widht="400" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/problem.svg">Problem solving</h2>
 
-
+[Problem solving - Solution (For the diagram above)](https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/solution.txt "Solution")
 

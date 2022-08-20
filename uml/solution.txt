@@ -1,0 +1,21 @@
+1) The diagram shows class hierarchy at three different levels.
+
+2) The Employee class is the super class (parent class) of Full Time and Part Time classes.
+3) These two classes inherit properties of the Employee class. This is called single inheritance.
+4) The Manager and Engineer classes inherit properties from the Full time class displaying single inheritance.
+5) The Developer class inherits properties from the Full Time and Part Time classes displaying multiple inheritance.
+6) The Employee class is an abstract class as it includes abstract functions such as display(int), addEmployee() and
+removeEmployee(). These classes are implemented by the derived classes Full Time and Part Time.
+7) The attributes of the Employee class are declared with protected access. This means that the attributes of the
+Employee class are accessible to the Full Time and Part Time classes.
+8) Full Time and Part Time classes can modify the attributes of the Employees class due to protected access.
+9) The attributes basicSalary and otherPerks of the Full Time class have private access. These two attributes therefore, cannot be
+accessed directly by its derived classes Manager,Engineer and Developer.
+10) Similarly, the attributes fee and timeWorked in the Part Time class cannot be accessed by the derived class Developer due to
+their private access.
+11) The display(int) method in the Employee class is abstract and each sub class has this method. The implementation of the
+display(int) function is provided in the Full Time and Part Time classes. The derived classes Manager and Engineer override the display(int)
+function of the Full Time class to display their individual implementations. This represents the polymorphism concept of
+object-oriented design.
+
+
