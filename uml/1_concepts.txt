@@ -42,3 +42,27 @@ Consider an example of Polygon class that specifies an abstract operation comput
 provide the implementation of the operation, computeArea(). The derived classes of the Polygon class, Rectangle and Square,
 implement the computeArea() operation to compute the area of a rectangle and square,respectively.
 
+4) Encapsulation
+--------------------
+Encapsulation means prevention of access to non-essential details.
+Example: When we plug in the cord of the washing-machine and switch it on, it starts to work.
+The complex process of converting electricity into motor
+rotation is hidden from the user. We can say that the working of the washing machine has been encapsulated.
+It is also called as information hiding because it involves hiding attributes and operations of a class from other classes.
+
+5) Polymorphism
+--------------------
+The concept of using methods (functions) or operators in different ways depending on the problem is called Polymorphism.
+Polymorphism in the context of operators refers to the difference in the functionality of an operator depending on the type of
+operaends.
+Example : The "+" operator adds two integer operands but concatenates two string operands.
+
+When polymorphism is used in the context of functions performing different tasks, it is referred to as function or method overloading.
+An example of function overloading is a multiply() function, which can take different signatures as runtime.
+
+For example:
+---------------
+multiply(int x,int y) --- takes in two integer parameters x and y and performs their multiplication.
+multiply(double x,double y) --- takes in two double parameters x and y and performs their multiplication.
+
+The method multiply() is overloaded in the above case and depending upon the parameters passed at runtime performs the operation.
