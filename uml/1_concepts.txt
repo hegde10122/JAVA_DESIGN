@@ -13,3 +13,23 @@ together to form objects of the class Cars.
 
 Refer to the file class_objects.png  in this folder to understand the above concept.
 
+2) Inheritance
+-------------------
+This refers to sharing of attributes and behaviours among classes based upon hierarchical relationship.
+The inheritance concept allows us to define a new class by extending an existing class.
+The original class is called a base class or super class.
+The new class obtained through inheritance is called a derived class or a sub class. A base class is a generalisation
+of the derived class, which means that the base class contains only those properties that are common to all the derived classes.
+
+Consider an example.
+Motorcycles,autorickshaws,cars and trucks have certain properties in common. They all have wheels,engines and horns.
+There they can be grouped under a super class called automobiles. Apart from sharing these common features,each sub class has its own
+particular characteristics such as trucks run on diesel, autorickshaws run on CNG while cars may run on petrol or diesel.
+
+Inheritance benefits:---
+
+Inheritance of classes allows for reuse of code.
+If certain data or methods are similar in a set of classes, then instead of defining those methods and data in each class separately,
+we can define the common methods and data in the base class. The derived class can then inherit the common methods
+and attributes from the base class.
+
