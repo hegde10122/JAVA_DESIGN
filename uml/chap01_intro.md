@@ -32,6 +32,6 @@ between each word (for example, WashingMachine or MicrowaveOven). Attribute-name
 follow the same convention, but the first letter of the first word isn't capitalized (for example,
 acceptFood()).
 
-<h3><img align="center" height="300" widht="300" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/more_uml/01_UML_Class.svg">  UML class diagram</h3>
+<h3><img align="center" height="300" widht="300" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/01_UML_Class.svg">  UML class diagram</h3>
 
 A class diagram consists of a number of these rectangle icons connected by lines that show how the classes relate to one another.

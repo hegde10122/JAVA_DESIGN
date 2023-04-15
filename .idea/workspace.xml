@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b57c1cc-aafe-42ef-b03b-9e72ed4d5e20" name="Changes" comment="" />
+    <list default="true" id="5b57c1cc-aafe-42ef-b03b-9e72ed4d5e20" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/oops/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/oops/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_uml/01_UML_Class.svg" beforeDir="false" afterPath="$PROJECT_DIR$/uml/01_UML_Class.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_uml/chap01_intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/uml/chap01_intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uml/1_concepts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/oops/1_concepts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uml/abstraction.svg" beforeDir="false" afterPath="$PROJECT_DIR$/oops/abstraction.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uml/class_objects.png" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_objects.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uml/inheritance.png" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uml/problem.svg" beforeDir="false" afterPath="$PROJECT_DIR$/oops/problem.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uml/problem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/oops/problem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uml/solution.txt" beforeDir="false" afterPath="$PROJECT_DIR$/oops/solution.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +33,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -57,6 +74,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
