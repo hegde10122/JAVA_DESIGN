@@ -1,10 +1,10 @@
-# Design patterns , UML , Object-Oriented Design (OOD) and Low-Level Design using Kotlin / Java.
+# Object Oriented Programming (OOP) concepts.
 
-1) We will first lay the foundation for understanding design.
+1) We will first lay the foundation for understanding design by learning OOP.
 
    To begin with we start with classes and objects.
 
-    Click here for the OOP concept --> [learning.txt](https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/oops/1_concepts.txt "Basics")
+    Click here for the OOP concept --> [OOPS concepts](https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/oops/1_concepts.txt "Basics")
 
 <h2><img align="center" height="400" widht="400" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/oops/class_objects.png">1.Understanding Classes and Objects</h2>
 
