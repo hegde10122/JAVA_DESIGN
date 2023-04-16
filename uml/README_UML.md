@@ -135,3 +135,9 @@ Each arrow represents a message that goes from one object to another. Time, in t
 So the first message is timeSoak(), which the timer sends to itself. The second message is sendWater(), which the
 timer sends to the water pipe. The final message, stopRotating(), goes from the timer to the drum.
 
+UML Activity Diagram
+---------------------
+
+The activity diagram for steps 4 to 6 for the washing machine ia as below
+
+<h3><img align="center" height="300" width="300" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/activity_diagram.png">UML activity diagram</h3>
