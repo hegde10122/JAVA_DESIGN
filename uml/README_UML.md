@@ -68,5 +68,70 @@ can be either in the soaking, washing, rinsing, spinning, or off state.
 
 An example of state diagram can be found below.
 
-<h3><img align="center" height="300" width="300" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/uml_statediagram.png">UML use-case diagram</h3>
+<h3><img align="center" height="300" width="300" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/uml_statediagram.png">UML state diagram</h3>
+
+The symbol at the top of the  above figure represents the start state and the symbol at the bottom
+represents the end state.
+
+Sequence Diagram
+-----------------
+
+Class diagrams and object diagrams represent static information. 
+In a functioning system, however, objects interact with one another, and these interactions occur over time. 
+The UML sequence diagram shows the time-based dynamics of the interaction.
+Using the washing machine example, the components of the  washing machine include a timer, a water pipe (for fresh water input), 
+and a drum (the part that holds the clothes,soap and the water). These, of course, are also objects.
+
+If the user invokes the "Wash clothes" use case, assuming the user has completed the
+"add clothes," "add detergent," and "turn on" operations, the sequence of steps goes something like this:
+
+1. At the beginning of "soaking," water enters the drum via the water pipe.
+2. The drum remains stationary for 7 minutes.
+3. At the end of "Soaking," water stops entering the drum.
+4. At the beginning of "Washing," the drum rotates back and forth and continues doing this
+   for 15 minutes.
+5. At the end of "Washing," the drum pumps out the soapy water.
+6. The drum stops rotating.
+7. At the beginning of "Rinsing," water entry restarts.
+8. The drum rotates back and forth.
+9. After 15 minutes water entry stops.
+10. At the end of "Rinsing," the drum pumps out the rinse water.
+11. The drum stops rotating.
+12. At the beginning of "Spinning," the drum rotates clockwise and continues for 5 minutes.
+13. At the end of "Spinning," the drum rotation stops.
+14. The wash is done.
+
+Imagine that the timer, the water pipe, and the drum are objects. Assume that each object
+has one or more operations. The objects work together by sending messages to each other.
+
+Each message is a request from the sender-object to the receiver-object. The request asks
+the receiver to complete one of its (the receiver's) operations.
+Let's get specific about the operations. 
+
+The timer can
+a) Time the soaking
+b) Time the washing
+c) Time the rinsing
+d) Time the spinning
+
+The water pipe can
+a) Start a flow
+b) Stop a flow
+
+The drum can
+a) Store water
+b) Rotate back and forth
+c) Rotate clockwise
+d) Stop rotating
+e) Pump water
+
+
+<h3><img align="center" height="300" width="300" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/sequence_diagram.png">UML sequence diagram</h3>
+
+The above figure  shows how to use these operations to create a sequence diagram that captures the
+messages among the timer, water pipe, drum, and drain represented as anonymous objects
+at the top of the diagram. 
+Each arrow represents a message that goes from one object to another. Time, in this diagram, proceeds from top to bottom.
+So the first message is timeSoak(), which the timer sends to itself. The second message is sendWater(), which the
+timer sends to the water pipe. The final message, stopRotating(), goes from the timer to the drum.
 
