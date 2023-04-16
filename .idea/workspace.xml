@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b57c1cc-aafe-42ef-b03b-9e72ed4d5e20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/02_object_diagrams.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESIGN.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/uml/README_UML.md" beforeDir="false" afterPath="$PROJECT_DIR$/uml/README_UML.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA_KOTLIN_DESIGN\uml" />
       <recent name="D:\JAVA_KOTLIN_DESIGN\oops" />
     </key>
   </component>

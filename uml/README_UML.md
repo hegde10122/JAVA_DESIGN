@@ -42,3 +42,6 @@ Object Diagram
 An object is an instance of a class - a definite thing with certain values of the class' attributes. For example, the microwave might have the brand name 
 Samsung, the model name Countertop, serial number G134250, capacity of 23L.
 
+See the figure below for an idea about object diagram.
+
+<h3><img align="center" height="300" width="300" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/02_object_diagrams.svg">  UML object diagram</h3>
