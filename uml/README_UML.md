@@ -35,3 +35,9 @@ acceptFood()).
 <h3><img align="center" height="300" widht="300" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/01_UML_Class.svg">  UML class diagram</h3>
 
 A class diagram consists of a number of these rectangle icons connected by lines that show how the classes relate to one another.
+
+Object Diagram
+---------------
+
+An object is an instance of a class - a definite thing with certain values of the class' attributes. For example, the microwave might have the brand name 
+Samsung, the model name countertop, s
