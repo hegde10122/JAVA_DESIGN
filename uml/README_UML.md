@@ -44,4 +44,4 @@ Samsung, the model name Countertop, serial number G134250, capacity of 23L.
 
 See the figure below for an idea about object diagram.
 
-<h3><img align="center" height="300" width="300" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/objects.png">  UML object diagram</h3>
+<h3><img align="center" height="3000" width="3000" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/objects.png">  UML object diagram</h3>
