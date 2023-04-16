@@ -44,4 +44,17 @@ Samsung, the model name Countertop, serial number G134250, capacity of 23L.
 
 See the figure below for an idea about object diagram.
 
-<h3><img align="center" height="3000" width="3000" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/objects.png">  UML object diagram</h3>
+<h3><img align="center" height="300" width="300" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/objects.png">  UML object diagram</h3>
+
+Use Case Diagram
+----------------
+
+A use case is a description of a system's behaviour from a user's standpoint. It is an old way of collecting system requirements from a user's point of view. 
+
+Use case diagram example can be found in the below diagram. 
+
+<h3><img align="center" height="300" width="300" src="https://github.com/hegde10122/JAVA_KOTLIN_DESIGN/blob/master/uml/uml_usecase.png">  UML UML use-case diagram</h3>
+
+The small stick figure that corresponds to the microwave oven user is called an actor. The ellipse represents the use case. 
+Note that the actor — the entity that initiates the use  case — can be a person or another system. Note also that the use case is inside a rectangle
+that represents the system, and the actor is outside the rectangle.
